@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [materialjam](http://materialjam187.epizy.com/)
 
-- 🌱 I’m currently learning **nodejs javascript**
+- 🌱 I’m currently learning **nodejs , javascript**
 
 - 👯 I’m looking to collaborate on [materialjam](http://materialjam187.epizy.com/)
 
-- 💬 Ask me about **c/c++ ,HTML ,CSS ,javascript,pyhton**
+- 💬 Ask me about **C/C++ , HTML , CSS , javascript , pyhton**
 
 - 📫 How to reach me **varanasisk0011@gmail.com**
 
