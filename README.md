@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [materialjam](http://materialjam187.epizy.com/)
 
-- 🌱 I’m currently learning **NodeJs and JavaScript**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on [materialjam](http://materialjam187.epizy.com/)
 
