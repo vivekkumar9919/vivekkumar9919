@@ -9,13 +9,13 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar9919&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar9919" /> </p>
 
-- 🔭 I’m currently working on [materialjam](http://materialjam187.epizy.com/)
+<!-- - 🔭 I’m currently working on [materialjam](http://materialjam187.epizy.com/) -->
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👯 I’m looking to collaborate on [materialjam](http://materialjam187.epizy.com/)
 
-- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript and Python**
+- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript ,Vue and Python**
 
 - 📫 How to reach me **varanasisk0011@gmail.com**
 
