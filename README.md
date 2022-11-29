@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate on [materialjam](http://materialjam187.epizy.com/)
 
-- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript ,Vue and Python**
+- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript ,VueJS, NodeJs, ExpressJs and Mongodb**
 
 - 📫 How to reach me **varanasisk0011@gmail.com**
 
