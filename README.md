@@ -5,7 +5,7 @@ vivekkumar9919/vivekkumar9919 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">A Passionate MEVN Stack Developer and Problem solver</h3>
+<h3 align="center">A Passionate MERN Stack Developer and Problem solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekkumar9919&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkumar9919" /> </p>
 
@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on [materialjam](http://materialjam187.epizy.com/)
-
-- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript ,VueJS, NodeJs, ExpressJs and Mongodb**
+- 💬 Ask me about **C/C++ ,HTML ,CSS ,JavaScript ,VueJS, Reactjs, NodeJs, ExpressJs and Mongodb**
 
 - 📫 How to reach me **varanasisk0011@gmail.com**
 
