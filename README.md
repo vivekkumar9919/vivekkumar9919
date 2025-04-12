@@ -15,7 +15,7 @@
 ## 🚀 Quick Snapshot
 
 ```js
-const vivek = {
+var vivek = {
   role: 'Software Developer',
   loves: ['clean code', 'system design', 'debugging', 'scalability'],
   tools: ['Javascript', 'Python', 'MongoDB', 'Redis', 'Docker', 'Kafka'],
