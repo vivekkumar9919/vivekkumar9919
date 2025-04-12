@@ -1,8 +1,13 @@
+<!--
 ![Black and White Simple Project Manager LinkedIn Banner](https://github.com/user-attachments/assets/a3d57b8c-0f52-4bd1-b773-8c447f6cf99a)
-
+-->
 <h1 align="center">Hey, I'm Vivek Kumar 👨‍💻</h1>
 <p align="center">
   <em>Backend Developer • System Thinker • Debugging Enthusiast</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Writing+scalable+systems+💻;Loving+debugging+and+logs+🔍;Clean+code+or+no+code+🔥" alt="Typing SVG" />
 </p>
 
 ---
@@ -57,6 +62,7 @@ const vivek = {
 ---
 
 ## 🔍 Debugging is 🔑
+> _"Logs tell stories. Listen to them."_  
 
 - Always logs request body, URL, and responses for traceability
 - Uses log aggregators like **Coralogix** to slice through errors
@@ -65,6 +71,7 @@ const vivek = {
 ---
 
 ## 🌱 Currently Growing
+> _"Keep it clean, keep it consistent, keep it scalable."_  
 
 - Diving into relational DB query optimization
 - Studying **system design patterns** & **DDD principles**
