@@ -42,9 +42,9 @@ var vivek = {
 
 | Languages   | Databases        | Tools & Infra           | Dev Practices       |
 |------------|------------------|--------------------------|---------------------|
-| Python 🐍   | MongoDB 🍃        | Docker 🐳, Kafka ⚡       | Logging, Monitoring |
-| JS (React) ⚛️ | Redis 🚀          | Zookeeper, Git, Postman | CI/CD, Test Suites  |
-| Bash 🖥️     | PostgreSQL / MySQL (learning) | Coralogix, pyenv     | Code Reviews        |
+| Python 🐍   | MongoDB 🍃        | Docker 🐳, Kafka ⚡, GCP       | Logging, Monitoring |
+| JS (React) ⚛️ | Redis 🚀          | Newrelic, Sentry, Grafana | CI/CD, Test Suites  |
+| C++      | PostgreSQL / MySQL (learning) | Coralogix, pyenv, Git     | Code Reviews        |
 
 ---
 
