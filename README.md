@@ -44,7 +44,7 @@ var vivek = {
 |------------|------------------|--------------------------|---------------------|
 | Python 🐍   | MongoDB 🍃        | Docker 🐳, Kafka ⚡, GCP       | Logging, Monitoring |
 | JS (React) ⚛️ | Redis 🚀          | Newrelic, Sentry, Grafana | CI/CD, Test Suites  |
-| C++      | PostgreSQL / MySQL (learning) | Coralogix, pyenv, Git     | Code Reviews        |
+| C++      | PostgreSQL / MySQL (learning) | Coralogix, Postman, Git     | Code Reviews        |
 
 ---
 
