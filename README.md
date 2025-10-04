@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Quick Snapshot
+> _"All my essentials, packed in JSON."_
 
 ```js
 var vivek = {
@@ -39,6 +40,7 @@ var vivek = {
 ---
 
 ## 🛠 My Toolbox
+> _"If code is art, these are my brushes."_
 
 | Languages   | Databases        | Tools & Infra           | Dev Practices       |
 |------------|------------------|--------------------------|---------------------|
@@ -50,7 +52,7 @@ var vivek = {
 
 ## 🧩 Code Style & Patterns
 
-> I love writing code that other devs want to read.
+> _"I love writing code that other devs want to read."_
 
 - Follows principles of **Clean Architecture** and **Separation of Concerns**
 - Uses **modular patterns**: each component has a single responsibility
@@ -80,6 +82,7 @@ var vivek = {
 ---
 
 ## 📬 Get In Touch
+> _"Ping me — I debug life too"_
 
 ```yaml
 email: varanasisk0011@gmail.com
